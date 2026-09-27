@@ -1,0 +1,6 @@
+{
+  "name": "Acanty - AI Accounts Payable Automation",
+  "description": "Multi-tenant B2B AI Accounts Payable platform: invoice extraction, deterministic validation, GL coding, approval workflows, and accounting-ready exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
